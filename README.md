@@ -1,4 +1,4 @@
-# One-to-one chat
+#Hover squares
 [DEMO LINK](https://tanyakovchuk.github.io/react_hover-squares_tt/)
 __________________________________________________________________________
 - Implementation of the app using the React.js
@@ -7,7 +7,7 @@ __________________________________________________________________________
 - Uses a fetch to retrieve data
 
 
-###Work description:
+##Work description:
 - Choose mode; 
 - Press START;
 - If the user hovers on the square - it turns blue;
